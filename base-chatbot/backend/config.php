@@ -95,7 +95,7 @@ $user_avatar_url = "https://learnwithhasan.com/wp-content/uploads/2023/09/pngtre
 $bot_image_url = "https://learnwithhasan.com/wp-content/uploads/2023/12/site-logo-mobile.png"; // Implement this function
 
 $response = array(
-'botStatus' => 0,
+'botStatus' => 1,
 'StartUpMessage' => "Hi, How are you?",
 'fontSize' => '16',
 'userAvatarURL' => $user_avatar_url,
